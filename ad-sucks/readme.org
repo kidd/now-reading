@@ -1,0 +1,84 @@
+
+* http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/
+** Why Ad Tech Is the Worst Thing That Ever Happened to Advertising
+Ad Blocking Is Not a Threat -- It Is a Beacon for the Industry
+
+By Adam Kleinberg. Published on January 06, 2016.
+
+Reprints Reprints
+
+Ad Age LookBook
+Featured Profile BtoB marketing requires cutting-edge sophistication to reach clients in real time.
+Learn more
+
+The problem our industry faces with ad tech is a lot like the issue with gun control. Guns are great tools. They are very useful if you want to shoot a deer or protect your home. But with almost no regulations -- and a whole lot of bad guys out there who would ignore them even if they existed -- we wind up with a situation where guns are everywhere, from the hands of the ultra-responsible to the dangerously sloppy to the outright criminal.
+
+This is just like the Wild West landscape of advertising technology -- and while nobody dies, the consequences to the ad industry have been undeniably egregious.
+
+Let's be clear. The conglomeration of software that constitutes "ad tech" fundamentally represents an extremely valuable set of tools for advertisers. Being able to aggregate and make sense of data is a good thing. Being able to provide personalized and relevant messages to consumers is a good thing. Being able to eliminate inefficiency through automation is a good thing.
+
+But, the lawless landscape in which this technology has emerged has created an environment that has undermined its own potential. It has had a dramatically negative impact on the perceptions of customers and the way they respond to marketers seeking their attention. An absence of accountability and limited transparency has resulted in bad user experiences and decreased loyalty -- exactly the opposite of what marketers seek to achieve with advertising.
+
+The marketing community had embraced this tech despite the fraud, the viewability issues, and the disengaged consumer backlash, because the tools do have use and their presence feels like an inevitable rising tide. But make no mistake, the way these tools have been applied has put the advertising industry in crisis.
+
+The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this? This is the reality of the great tools ad tech provides us used in a manner unchecked.
+Ad Age DataCenter
+$137.8B U.S. ad spend for top 200 advertisers
+
+Subscribe to Datacenter today and access the 200 Leading National Advertisers Report, ranking the nation’s 200 biggest ad spenders and more.
+Learn more
+
+Now, brand marketers don't get great jobs at great companies because they're stupid. They know they can't rely on the delivery of digital advertising alone to do their job. This is why 89% of them in a recent Gartner poll said that they'd differentiate their brands primarily on the basis of customer experience by the end of 2016.
+
+Of course, ad tech stands to thwart that goal once again. Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. A recent blog post by John Gruber on "Daring Fireball" exposed that a 537-word all-text post on a site called iMore that weighed 14MB. 14MB should be enough to download an all-text version of the Bible.
+
+In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
+
+The rise of mobile exacerbates this problem. If you asked me how many ads I've clicked on in my browser in the last month, maybe I'd say two. If you asked me how many ads I've clicked on in my phone in the past month, I'd probably have to say over a hundred -- all of them by accident. In 2012, eMarketer reported that up to 38% of mobile ad clicks were accidental. Based on my own experience, I'd guess in 2015 that number is at least double.
+
+Many see ad blockers as an existential threat to our business. I see them as a beacon. This is collective intelligence at work. This will be how the Wild West is won. The industry hasn't been able to police ourselves, so consumers will force change upon the industry themselves.
+
+Advertising doesn't have to suck. We can tell great stories with digital. We can create marketing that provides value to consumers instead of hurting them. We can even leverage data to do it in an increasingly relevant and efficient way.
+
+If consumers have anything to say about it, we'll have to.
+
+* http://motherboard.vice.com/en_ca/read/the-internet-of-things-that-talk-about-you-behind-your-back
+
+The Internet of Things That Talk About You Behind Your Back
+Written by
+Bruce Schneier
+8 January 2016 // 04:10 PM CET
+Copy This URL
+
+SilverPush is an Indian startup that’s trying to figure out all the different computing devices you own. It embeds inaudible sounds into the webpages you read and the television commercials you watch. Software secretly embedded in your computers, tablets, and smartphones pick up the signals, and then use cookies to transmit that information back to SilverPush. The result is that the company can track you across your different devices. It can correlate the television commercials you watch with the web searches you make. It can link the things you do on your tablet with the things you do on your work computer.
+
+Your computerized things are talking about you behind your back, and for the most part you can’t stop them—or even learn what they’re saying.
+
+This isn’t new, but it’s getting worse.
+
+Surveillance is the business model of the internet, and the more these companies know about the intimate details of your life, the more they can profit from it. Already there are dozens of companies that secretly spy on you as you browse the internet, connecting your behavior on different sites and using that information to target advertisements. You know it when you search for something like a Hawaiian vacation, and ads for similar vacations follow you around the internet for weeks. Companies like Google and Facebook make an enormous profit connecting the things you write about and are interested in with companies trying to sell you things.
+
+    We need to think about the ethics of our surveillance economy
+
+Cross-device tracking is the latest obsession for internet marketers. You probably use multiple internet devices: your computer, your smartphone, your tablet, maybe your internet-enabled television—and, increasingly, “Internet of Things” devices like smart thermostats and appliances. All of these devices are spying on you, but the different spies are largely unaware of each other. Start-up companies like SilverPush, 4Info, Drawbridge, Flurry, and Cross Screen Consultants, as well as the big players like Google, Facebook, and Yahoo, are all experimenting with different technologies to “fix” this problem.
+
+Retailers want this information very much. They want to know whether their television advertising causes people to search for their products on the internet. They want to correlate people’s web searching on their smartphones with their buying behavior on their computers. They want to track people’s locations using the surveillance capabilities of their smartphones, and use that information to send geographically targeted ads to their computers. They want the surveillance data from smart appliances correlated with everything else.
+
+This is where the Internet of Things makes the problem worse. As computers get embedded into more of the objects we live with and use, and permeate more aspects of our lives, more companies want to use them to spy on us without out knowledge or consent.
+
+Technically, of course, we did consent. The license agreement we didn’t read but legally agreed to when we unthinkingly clicked “I agree” on a screen, or opened a package we purchased, gives all of those companies the legal right to conduct all of this surveillance. And the way US privacy law is currently written, they own all of that data and don’t need to allow us to see it.
+
+
+This webinar aimed at affiliate marketers gives insight into why cross-device tracking is of such interest to internet marketing firms. The end goal is to track user behavior across all platforms.
+
+We accept all of this internet surveillance because we don’t really think about it. If there were a dozen people from internet marketing companies with pens and clipboards peering over our shoulders as we sent our Gmails and browsed the internet, most of us would object immediately. If the companies that made our smartphone apps actually followed us around all day, or if the companies that collected our license plate data could be seen as we drove, we would demand they stop. And if our televisions, computer, and mobile devices talked about us and coordinated their behavior in a way we could hear, we would be creeped out.
+
+The Federal Trade Commission is looking at cross-device tracking technologies, with an eye to regulating them. But if recent history is a guide, any regulations will be minor and largely ineffective at addressing the larger problem.
+
+We need to do better. We need to have a conversation about the privacy implications of cross-device tracking, but—more importantly—we need to think about the ethics of our surveillance economy. Do we want companies knowing the intimate details of our lives, and being able to store that data forever? Do we truly believe that we have no rights to see the data that's collected about us, to correct data that's wrong, or to have data deleted that's personal or embarrassing? At a minimum, we need limits on the behavioral data that can legally be collected about us and how long it can be stored, a right to download data collected about us, and a ban on third-party ad tracking. The last one is vital: it's the companies that spy on us from website to website, or from device to device, that are doing the most damage to our privacy.
+
+The internet surveillance economy is less than 20 years old, and emerged because there was no regulation limiting any of this behavior. It's now a powerful industry, and it's expanding past computers and smartphones into every aspect of our lives. It's long past time we set limits on what these computers, and the companies that control them, can say about us and do to us behind our backs.
+
+Bruce Schneier is a security technologist and author. He is the CTO of Resilient Systems, Inc., and his latest book is Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World. He blogs at schneier.com.
+
+Topics: privacy, surveillance, tracking, SilverPush, targeted advertising, Cross-device tracking, Bruce Schneier, opinion
